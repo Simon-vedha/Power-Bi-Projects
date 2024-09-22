@@ -1,4 +1,5 @@
-# Power BI Dashboard for Coffe Shop Sales Analysis
+# Power BI Dashboard for Coffee Shop Sales Analysis
+[Power Bi Dashboard](https://app.powerbi.com/groups/me/reports/c833682f-f02d-4a86-976e-26c009610a2e/f1c28da43252e3b2a21b?experience=power-bi)
 
 ## Project Overview
 
