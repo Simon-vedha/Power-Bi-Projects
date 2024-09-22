@@ -60,6 +60,7 @@ This Power BI dashboard provides key insights into **sales performance**, **sale
 - **Trend Visuals**: Line charts and bar charts are used to visualize trends over time, highlighting important fluctuations in sales, orders, and quantity sold.
 
 ## Screenshots
-*Include screenshots or images of the dashboard here*
+![image](https://github.com/user-attachments/assets/444e3b2b-b7a3-4cde-8dad-dd4d333ccb23)
+
 
 
